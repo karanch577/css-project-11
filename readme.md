@@ -9,7 +9,7 @@
     - `calc()`
 
 ## Time taken to complete this project
-    - 9 hours
+    - 9 hours + 4 hours (responsiveness)
 
 ## Screenshot
 ![image](project11.png)
