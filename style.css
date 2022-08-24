@@ -100,6 +100,10 @@ nav {
   list-style: none;
 }
 
+a{
+  text-decoration: none;
+}
+
 .list-item {
   padding: 0.7em 1em;
   color: var(--fclr-accent);
@@ -415,6 +419,10 @@ footer ul {
 }
 .item {
   padding: 0.4em 0.5em;
+}
+
+footer a{
+  color: #000;
 }
 
 @media (max-width: 780px) {
